@@ -1,2 +1,2 @@
-#1/bin/bas
+#!/bin/bas
 tail -1 >> iacta
